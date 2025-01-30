@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "2817511833",
+    "project_id": "inv-app-bf732",
+    "storage_bucket": "inv-app-bf732.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2817511833:android:aca97361e77c4274254308",
+        "android_client_info": {
+          "package_name": "br.ufc.quixada.investidorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7SUjqoMj3uR69SgUMlvvcgVZek5fxCFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
